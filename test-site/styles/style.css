@@ -1,0 +1,35 @@
+html {
+  font-size: 16px; /* px means "pixels": the base font size is now 10 pixels high  */
+  font-family: "Open Sans", sans-serif; font-family: 'Itim', cursive; /* last three entries are google font */
+}
+
+p, li {
+  font-size: 25px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+html {
+  background-color: #cdd0d4;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #f0f0f0;
+  padding: 0 20px 20px 20px;
+  border: 1px solid black;
+}
+
+h1 {
+  font-size: 75px;
+  margin: 0;
+  padding: 20px 0;
+  color: #4f4f4f;
+  text-shadow: 1px 1px 1px black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
